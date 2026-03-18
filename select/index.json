@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Soft",
+  "base_artist": "LANY",
+  "createdAt": "2026-03-18T10:52:59.580854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soft Power",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/01_Soft_Power_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soft Power (Live At London Astoria 16.07.08)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/02_Soft_Power_(Live_At_London_Astoria_16.07.08)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soft Power (Loz & Brendan Long remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/03_Soft_Power_(Loz_&_Brendan_Long_remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soft Power (Loz & Brendan Long Mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/04_Soft_Power_(Loz_&_Brendan_Long_Mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soft Power - Vicarious Bliss Gutter Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_Soft_Power_-_Vicarious_Bliss_Gutter_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soft Power (Vicarious Bliss Gutter Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/06_Soft_Power_(Vicarious_Bliss_Gutter_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Soft Shock",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/07_Soft_Shock_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soft Shock (Acoustic Version)",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/08_Soft_Shock_(Acoustic_Version)_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In Soft Focus Feat. Ariel Pink and Elzhi",
+      "artist": "Lushlife",
+      "has_synced": true,
+      "path": "select/09_In_Soft_Focus_Feat._Ariel_Pink_and_Elzhi_Lushlife.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "In Soft Focus",
+      "artist": "Lushlife",
+      "has_synced": true,
+      "path": "select/10_In_Soft_Focus_Lushlife.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Soft Machine",
+      "artist": "Les Rythmes Digitales",
+      "has_synced": false,
+      "path": "select/11_Soft_Machine_Les_Rythmes_Digitales.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Soft Return",
+      "artist": "Labradford",
+      "has_synced": false,
+      "path": "select/12_Soft_Return_Labradford.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Ground So Soft",
+      "artist": "Lift to Experience",
+      "has_synced": false,
+      "path": "select/13_The_Ground_So_Soft_Lift_to_Experience.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soft",
+      "artist": "LANY",
+      "has_synced": false,
+      "path": "select/pl_01_Soft_LANY.txt"
+    }
+  ]
+}
